@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int sum = 0;
-	for (int inital = 1; inital <= 10; ++inital) {
+	for (int inital = 1; inital <= 11; ++inital) {
 		sum += inital;
 	}
 	cout << sum << endl;
